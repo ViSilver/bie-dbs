@@ -1,8 +1,8 @@
 <img src="https://cdn3.iconfinder.com/data/icons/movie-video/512/Icon_8-512.png" width="110" align="left"/> <img src="https://cdn4.iconfinder.com/data/icons/simplus-entertainment-icons/211/Layer_11-01-512.png" width="150" align="right"/> 
-</br>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
+<br>
  Turcanu Victor
  ========
  [turcavic@fit.cvut.cz]
