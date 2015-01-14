@@ -137,6 +137,7 @@ select surname, name, count(distinct mac.MOID) as "Nr of movies"
 from actor ac, movie_actor mac, movie mo
 where ac.actid=mac.actid and mo.moid=mac.MOID and mo.year > 1980
 group by surname, name
+having count(*) >= 1
 order by "Nr of movies" desc;
 ----------------------------------
 select name, surname, nr_movies "Nr of movies"
